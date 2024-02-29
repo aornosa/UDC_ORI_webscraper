@@ -4,9 +4,17 @@
 Este proyecto ha sido creado con el propósito de facilitar el acceso a la información de las páginas de Movilidad Internacional para los estudiantes de la UDC (Universidade de A Coruña)
 
 <h3>Método de uso:</h3>
+Al modificar el nombre de la facultad que se desea como filtro, ha de estar en el mismo formato que en la [página de la ORI](https://udc.adv-pub.moveonfr.com/report-page-1575/), como por ejemplo:<br /><br />
+  
+  ```Facultad de Informática``` ```Facultad de Ciencias``` ```Facultad de Economía y Empresa``` ```Escuela Politécnica de Ingeniería de Ferrol (F)```
+<br /><br />
 Este es un script de python sin compilar, por lo que la forma más recomendable de ejecutarlo es clonando el repositorio de github, y ejecutándolo localmente de la siguiente manera:
 
+
 <h4>Método .exe</h4>
+
+>[!WARNING] 
+>No disponible en este momento
 <ul>
   <li>Descarga UDC_Erasmus_Webscraper.exe</li>
   <li>Ejecuta el archivo</li>
