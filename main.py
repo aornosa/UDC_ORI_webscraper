@@ -9,7 +9,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options
 
-import pandas as pd
 import csv
 
 url = "https://udc.adv-pub.moveonfr.com/report-page-1575/"
